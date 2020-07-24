@@ -12,4 +12,4 @@ Practice along to get more knowledge on HTML and CSS.
 
 The code is strictly for my learning purposes.
 
-**_ Background Image from pexels.com Negative Space _**
+Credit: Negative Space at pexels.com (Background Image)
